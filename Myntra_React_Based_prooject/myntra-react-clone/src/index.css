@@ -11,7 +11,7 @@ header {
   height: 80px;
   justify-content: space-between;
   align-items: center;
-  border-bottom: 1px solid #b6b1b1;
+  /* border-bottom: 2px solid #b6b1b1 !important; */
 }
 .myntra_home {
   height: 45px;
@@ -151,7 +151,7 @@ header {
 }
 .item-container {
   width: 250px;
-  margin: 10px;
+  margin: 20px;
 }
 .item-image {
   width: 100%;
@@ -381,3 +381,10 @@ a.action_container:link {
   height: 14px;
   cursor: pointer;
 }
+
+
+.spinner{
+  margin:100px 0px;
+}
+
+
